@@ -1,6 +1,6 @@
 name: 'Hello world'
 description: 'dinesh Hello world'
-author: 'dinesh.redjhat@yahoo.com'
+author: 'dinesh.redhat@yahoo.com'
 
 runs:
   using: 'node12'
