@@ -1,0 +1,8 @@
+name: 'Hello world'
+description: 'dinesh Hello world'
+author: 'dinesh.redjhat@yahoo.com'
+
+runs:
+  using: 'node12'
+  main: 'index.js'
+  
